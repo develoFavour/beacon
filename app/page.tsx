@@ -155,7 +155,7 @@ export default function LandingPage() {
 				{/* ─────────────────── HERO ─────────────────── */}
 				<section className="relative overflow-hidden border-b border-border/60">
 					<Image
-						src="/hallmark_university_nigeria_cover.jfif"
+						src="/hallmark_university.jpg"
 						alt="Hallmark University campus"
 						fill
 						priority
